@@ -60,7 +60,7 @@ The parameter file lists all the necessary parameters to run the analysis succes
 
 ```
 filename = output
-database = SILVA_138_SSURef_NR99_tax_silva.txt
+database = bacteria.txt
 forward = ACKGCTCAGTAACACGT
 forward = GCTCAGTAACACGTGG
 forward = CGGACGGGTGAGTAACGCGTGA
