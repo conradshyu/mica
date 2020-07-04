@@ -1,0 +1,25 @@
+#
+# list of forward primers
+# the character '|' is used to separate the column
+# '#' denotes the comments
+#
+# written by Conrad Shyu (shyu4751@uidaho.edu)
+#
+# Bioinformatics and Computational Biology (BCB)
+# Department of Biological Science
+# University of Idaho, Moscow, ID 83844
+#
+# revised on September 8, 2005
+#
+Arc-109f|ACKGCTCAGTAACACGT
+Arc-112f|GCTCAGTAACACGTGG
+CYA106f|CGGACGGGTGAGTAACGCGTGA
+CYA359f|GGGGAATYTTCCGCAATGGG
+CYA432f|CCGCGTGAGGGAGGAAGG
+Eub-1055f|ATGGCTGTCGTCAGCT
+Eub-341f|CCTACGGGAGGCAGCAG
+Eub-8f|AGAGTTTGATCCTGGCTCAG
+Eub-8fm|AGAGTTTGATCMTGGCTCAG
+Eub-968f|AACGCGAAGAACCTTAC
+Uni-519f|CAGCAGCCGCGGTAATAC
+Uni-519fm|CAGCMGCCGCGGTAATWC

@@ -1,0 +1,28 @@
+#
+# list of reverse primers
+# the character '|' is used to separate the column 
+# '#' denotes the comments
+#
+# written by Conrad Shyu (shyu4751@uidaho.edu)
+#
+# Bioinformatics and Computational Biology (BCB)
+# Department of Biological Science
+# University of Idaho, Moscow, ID 83844
+#
+# revised on September 8, 2005
+#
+1062r|ACAGCCATGCAGCACCT
+1387r|CCCGGGAACGTATTCACCGC
+1492r|GYTACCTTGTTACGACTT
+Arc-533r|TTACCGCGGCGGCTGGCA
+Arc-934r|GTGCTCCCCCGCCAATTCCT
+CYA781r(a)|GACTACTGGGGTATCTAATCCCATT
+CYA781r(b)|GACTACAGGGGTATCTAATCCCTTT
+CYA792r|TCCCCTAGCTTTCGTCCC
+Eub-1113r|GGGTTGCGCTCGTTG
+Eub-1401r|CGGTGTGTACAAGGCCCGGGAACG
+Eub-536r|GWATTACCGCGGCKGCTG
+Eub-539r|ATCGTATTACCGCGGCTGCTGGCA
+Eub-926r|CCGTCAATTCCTTTRAGTTT
+Uni-1406r|ACGGGCGGTGTGTRC
+Uni-1513r|GGGTACCTTGTTACG

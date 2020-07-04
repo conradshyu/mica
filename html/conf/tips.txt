@@ -1,0 +1,19 @@
+You can include nucleotide ambiguity codes in the primers and restriction enzymes to increase the search sensitivity.
+MiCA currently support PAT (Phylogenetic Assignment Tools). You can download the generated file from MiCA and send it to PAT for analysis.
+MiCA currently outputs several formats, including the plain text, CSV (for spreadsheet programs), and a special format for PAT.
+MiCA currently operates on a server computer with 1.0GB of RAM and four Intel Xeon 2.8GHz processors running RedHat Linux.
+MiCA currently includes 12 forward and 14 reverse primers, and 46 restriction enzymes.
+MiCA currently features a database of 380,520 16S ribosomal RNA sequences that 
+were obtained from the hierarchy browser of the March release version of the RDP.
+MiCA website was developed by students and faculty of the Initiative for Bioinformatics and Evolutionary Studies (IBEST) at the University of Idaho. This research was funded by the P&amp;G company.
+The aim of this research was to develop a suite of web-based tools that would enable researchers to perform analyses of microbial community structure based on terminal-restriction fragment length polymorphisms (T-RFLP).
+To effectively search a large number of sequences, MiCA features an algorithm that utilizes a binary encoding scheme that transforms nucleic acid characters into four parallel bit streams.
+The binary encoding scheme enables the search to be performed with a series of binary operations, which effectively reduces the search complexity, and increases performance. This compact representation also permits an accurate search, which is not possible with the character-based approaches.
+MiCA has an online help system that provides detailed information and instructions on the use of the computational tools available through MiCA as well as brief tutorials to guide the selection of primers and enzymes.
+The MiCA online help system runs on a separate window, and does not interfere with any tasks running through the web site.
+ISPaR performs <em>in silico</em> amplification and restriction of 16S and 18S rRNA sequences. It utilizes a binary-encoding scheme for DNA sequences and then search for sequences within genes that anneal to the specified primers.
+Restriction sites are identified within the gene fragment delimited by the primers. The number of base pairs between the 5’ and 3’ primers and the proximal restriction sites are reported.
+APLAUS+ compares the data from one or more T-RFLP profiles to the outcomes of <em>in silico</em> analyses of sequences in the database done using the same primers and enzymes.
+ISPaR and APLAUS+ were written entirely in C++ for fast execution and utilization of modern processor technologies.
+Two additional databases have been added to MiCA; (a) full length of high quality 16S sequences from the colon of humans, pigs, and the rumen, and (b) representative sequences of the major lineages of bacteria in the colon of mammals.
+MiCA contains a database of 95,140 16S rRNA gene sequences from the Geeengenes database project. This project was created by T. Z. DeSantis, I. Dubosarskiy, S. R. Murray, and G. L. Andersen.

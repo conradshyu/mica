@@ -1,0 +1,18 @@
+#
+# list of sponsor websites
+# the character '|' is used to separate the column
+# '#' denotes the comments
+#
+# written by Conrad Shyu (shyu4751@uidaho.edu)
+#
+# Bioinformatics and Computational Biology (BCB)
+# Department of Biological Science
+# University of Idaho, Moscow, ID 83844
+#
+# revised on September 8, 2005
+#
+P&G company website|http://www.pg.com/|P&amp;G
+Initiative for Bioinformatics and Evolutionary Studies (IBEST)|http://styx.ibest.uidaho.edu/ibest/index.html|IBEST
+Program of Bioinformatics and Computational Biology (BCB)|http://styx.ibest.uidaho.edu/ibest/bcb.html|Program of BCB
+Department of Biological Sciences|http://www.sci.uidaho.edu/biosci/|Biological Sciences
+University of Idaho, Moscow, Idaho|http://www.uidaho.edu/|University of Idaho

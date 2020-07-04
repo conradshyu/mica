@@ -1,0 +1,59 @@
+#
+# list of restriction enzymes
+# the character '|' is used to separate the column
+# '#' denotes the comments
+#
+# written by Conrad Shyu (shyu4751@uidaho.edu)
+#
+# Bioinformatics and Computational Biology (BCB)
+# Department of Biological Science
+# University of Idaho, Moscow, ID 83844
+#
+# revised on September 8, 2005
+#
+Acc II|CG^CG
+Afa I|GT^AC
+Alu I|AG^CT
+BAM HI|G^GATCC
+Bfa I|C^TAG
+Bsh1236 I|CG^CG
+Bsp106 I|^GATC
+BstU I|CG^CG
+BsuR I|GG^CC
+Cfo I|GCG^C
+CviR I|TG^CA
+DdeI|C^TNAG
+Dpn I (methA)|GA^TC
+Dpn II|^GATC
+Eco RI|G^AATTC
+FnuD II|CG^CG
+Hae III|GG^CC
+Hap II|C^CGG
+Hha I|GCG^C
+HinP1 I|G^CGC
+HinfI|G^ANTC
+Hpa II|C^CGG
+Hpy 1881|TCN^GA
+Hpy 188III|TC^NNGA
+HpyCH4 IV|A^CGT
+HpyCH4 V|TG^CA
+Hsp92 II|CATG^
+Mae I|C^TAG
+Mae II|A^CGT
+Mbo I|^GATC
+Mse I|T^TAA
+Msp I|C^CGG
+Mvn I|CG^CG
+Nde II|^GATC
+Nla III|CATG^
+Pal I|GG^CC
+Rsa I|GT^AC
+Sau3A I|^GATC
+Sau96I|G^GNCC
+ScrFI|CC^NGG
+Stu I|AGG^CCT
+Taq I|T^CGA
+Tha I|CG^CG
+Tru9 I|T^TAA
+Tsp509 I|^AATT
+TthHB8 I|T^CGA

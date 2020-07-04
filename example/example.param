@@ -1,0 +1,44 @@
+# output filename
+filename = test_output
+# reference database
+database = bacteria.txt
+# list of forward primer; up to 3
+forward = ACKGCTCAGTAACACGT
+forward = GCTCAGTAACACGTGG
+forward = CGGACGGGTGAGTAACGCGTGA
+# list of reverse primer; up to 3
+reverse = TCCCCTAGCTTTCGTCCC
+reverse = GGGTTGCGCTCGTTG
+reverse = CGGTGTGTACAAGGCCCGGGAACG
+# list of restriction enzyme; up to 3
+enzyme = CG^CG
+enzyme = ^GATC
+enzyme = CG^CG
+# number of bases that permit mismatches
+max_base = 10
+# number of mismatches permitted
+mismatch = 5
+# 0: report only shortest fragments
+# 1: report all restriction fragments
+output_all = 1
+# sort the abundance data with specific order
+# possible options
+# 0: forward fragments in ascending order
+# 1: reverse fragments in ascending order
+# 2: shortest forward fragment in ascending order
+# 3: shortest reverse fragment in ascending order
+# 4: organism name in ascending order
+# 5: forward fragments in descending order
+# 6: reverse fragments in descending order
+# 7: shortest forward fragment in descending order
+# 8: shortest reverse fragment in descending order
+# 9: organism name in descending order
+sort_option = 0
+# trflp forward fragment sample file
+forward_sample = forward.csv
+# trflp reverse fragment sample file
+reverse_sample = reverse.csv
+# forward fragment discrepancy
+forward_shift = 2
+# reverse fragment discrepancy
+reverse_shift = 2

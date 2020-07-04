@@ -1,0 +1,26 @@
+#
+# list of available database on MiCA
+# the character '|' is used to separate the column
+# '#' denotes the comments
+#
+# written by Conrad Shyu (shyu4751@uidaho.edu)
+#
+# Bioinformatics and Computational Biology (BCB)
+# Department of Biological Science
+# University of Idaho, Moscow, ID 83844
+#
+# revised on September 8, 2005
+# revised on January 8, 2006
+# revised on March 13, 2006
+# revised on July 26, 2006; add a greengenes database
+#
+RDP Release 9.51 Good Quality (>1200) Bacterial 16S|gq_16s.txt
+RDP Release 9.51, Update 51, Bacterial SSU 16S rRNA|bacteria.txt
+NCBI Archaeon 16S rRNA Gene Sequences|archaea.txt
+Nitrous Oxide Reductase (nosZ) Gene Sequences|nitrogen.txt
+H.Q. 16S Sequences from Colon of Human, Pigs, and Rumen|colon.txt
+Major Lineages of Bacteria in Colon of Mammals|rumen.txt
+Pig Bacterial 16S rRNA (provided by Hojberg et al.)|dias060104.txt
+Dr. Fouke's 16S Sequences (provided by Maalouf et al.)|fouke_lib.txt
+Greengenes 16S rDNA data (http://greengenes.lbl.gov)|greengene.txt
+Sequences provided by Allison E. Murray (NR99_778)|nr99_778.txt
